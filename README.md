@@ -77,14 +77,7 @@
 
 
 
-Existe algo positivo para fazer com Markdown?
-Sim! Markdown é excelente para:
 
-Organizar notas: Ferramentas como Obsidian e Notion usam Markdown para criar sistemas de notas eficientes.
-
-Escrever documentação clara: É ideal para criar manuais, guias e arquivos README.
-
-Publicar conteúdo online: Muitos blogs e sites estáticos usam Markdown para criar posts e páginas de forma rápida.
 
 Colaboração: Como é simples e universal, Markdown facilita a colaboração em projetos, especialmente em plataformas como GitHub.
 
