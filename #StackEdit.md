@@ -41,16 +41,3 @@ StackEdit.io é um editor de Markdown online e gratuito que permite criar, edita
 
 - *Equipes*: Colaboram em documentos técnicos ou de planejamento com versionamento via Git ou Google Drive.
 
-Vantagens em Relação a Outros Editores:
-Acesso Online: Não requer instalação (funciona no navegador).
-
-Sincronização Automática: Salva alterações em tempo real na nuvem.
-
-Interface Simples: Foco na produtividade, sem distrações.
-
-Exemplo de Uso:
-Você escreve um tutorial em Markdown no StackEdit.
-
-Insere blocos de código, diagramas e imagens.
-
-Pré-visualiza o formato final.
