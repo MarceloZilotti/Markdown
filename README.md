@@ -79,8 +79,3 @@
 
 
 
-Colaboração: Como é simples e universal, Markdown facilita a colaboração em projetos, especialmente em plataformas como GitHub.
-
-Automatizar tarefas: Markdown pode ser combinado com ferramentas como Pandoc para converter documentos em vários formatos automaticamente.
-
-Em resumo, Markdown é uma ferramenta poderosa para textos simples e diretos, mas pode não ser a melhor escolha para tarefas que exigem formatação complexa ou interatividade.
