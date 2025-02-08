@@ -2,7 +2,7 @@
 Learning about Markdown
 
 
-ONDE USAR:
+## ONDE USAR:
 
 Documentação: Muito usado para escrever documentação de software, como arquivos README em repositórios GitHub.
 
