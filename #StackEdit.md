@@ -7,31 +7,32 @@ StackEdit.io é um editor de Markdown online e gratuito que permite criar, edita
 ### Principais Recursos e Finalidades:
 
 
-Edição de Markdown com Pré-visualização em Tempo Real
+- Edição de Markdown com Pré-visualização em Tempo Real
 
-Escreva em Markdown de um lado e veja o resultado renderizado (HTML, PDF, etc.) do outro, sem precisar alternar entre abas ou ferramentas.
+- Escreva em Markdown de um lado e veja o resultado renderizado (HTML, PDF, etc.) do outro, sem precisar alternar entre abas ou ferramentas.
 
-Integração com Nuvem
+- Integração com Nuvem
 
-Salve documentos diretamente em serviços como Google Drive, Dropbox, GitHub e GitLab, facilitando o acesso e o versionamento.
+- Salve documentos diretamente em serviços como Google Drive, Dropbox, GitHub e GitLab, facilitando o acesso e o versionamento.
 
-Exportação para Diversos Formatos
+- Exportação para Diversos Formatos
 
-Converta Markdown para HTML, PDF, LaTeX, DOCX, entre outros, ideal para compartilhar ou publicar conteúdo em diferentes plataformas.
+- Converta Markdown para HTML, PDF, LaTeX, DOCX, entre outros, ideal para compartilhar ou publicar conteúdo em diferentes plataformas.
 
-Publicação Direta em Blogs e CMS
+- Publicação Direta em Blogs e CMS
 
-Publique textos automaticamente em plataformas como WordPress, Blogger, Medium e Ghost, sem precisar copiar e colar manualmente.
+- Publique textos automaticamente em plataformas como WordPress, Blogger, Medium e Ghost, sem precisar copiar e colar manualmente.
 
-Colaboração e Compartilhamento
+- Colaboração e Compartilhamento
 
-Compartilhe documentos por link ou trabalhe em equipe usando integração com serviços de armazenamento em nuvem.
+- Compartilhe documentos por link ou trabalhe em equipe usando integração com serviços de armazenamento em nuvem.
 
-Recursos Avançados de Markdown
+- Recursos Avançados de Markdown
 
-Suporte a tabelas, diagramas (ex: Mermaid), fórmulas matemáticas (LaTeX), sintaxe de código e muito mais.
+- Suporte a tabelas, diagramas (ex: Mermaid), fórmulas matemáticas (LaTeX), sintaxe de código e muito mais.
 
-Para Quem é Útil?
+### Para Quem é Útil?
+
 Bloggers e Escritores: Publicam conteúdo diretamente em plataformas de blogs.
 
 Desenvolvedores: Escrevem documentação técnica (ex: READMEs para GitHub) ou notas em Markdown.
