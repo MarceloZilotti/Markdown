@@ -12,7 +12,7 @@
 ***Negrito e Itálico*** ou ___Negrito e Itálico___  
 ~~Texto Riscado~~  
 
-
+---
 - Item 1
 - Item 2
   - Subitem (2 espaços ou Tab)
