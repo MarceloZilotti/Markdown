@@ -11,7 +11,7 @@
 **Negrito** ou __Negrito__  
 ***Negrito e Itálico*** ou ___Negrito e Itálico___  
 ~~Texto Riscado~~  
-<font color="blue">This text is red!</font>
+
 ---
 - Item 1
 - Item 2
