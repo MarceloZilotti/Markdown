@@ -18,7 +18,7 @@
   - Subitem (2 espaços ou Tab)
 ---
 
-  Some of these words <ins>will be underlined</ins>.
+  Algumas palavras <ins>serão sublinhadas</ins>.
 
 ---
 
