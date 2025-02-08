@@ -67,7 +67,7 @@ ___
 
 Para gerar tabelas automaticamente em Markdown, pode-se usar: [Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 
-
+---
 
 
 Texto com uma nota[^1].  
