@@ -33,13 +33,13 @@ StackEdit.io é um editor de Markdown online e gratuito que permite criar, edita
 
 ### Para Quem é Útil?
 
-Bloggers e Escritores: Publicam conteúdo diretamente em plataformas de blogs.
+- *Bloggers e Escritores*: Publicam conteúdo diretamente em plataformas de blogs.
 
-Desenvolvedores: Escrevem documentação técnica (ex: READMEs para GitHub) ou notas em Markdown.
+- *Desenvolvedores*: Escrevem documentação técnica (ex: READMEs para GitHub) ou notas em Markdown.
 
-Estudantes e Pesquisadores: Formatam trabalhos acadêmicos com fórmulas matemáticas e referências.
+- *Estudantes e Pesquisadores*: Formatam trabalhos acadêmicos com fórmulas matemáticas e referências.
 
-Equipes: Colaboram em documentos técnicos ou de planejamento com versionamento via Git ou Google Drive.
+- *Equipes*: Colaboram em documentos técnicos ou de planejamento com versionamento via Git ou Google Drive.
 
 Vantagens em Relação a Outros Editores:
 Acesso Online: Não requer instalação (funciona no navegador).
