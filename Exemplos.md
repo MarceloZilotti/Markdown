@@ -16,16 +16,16 @@
 - Item 1
 - Item 2
   - Subitem (2 espaços ou Tab)
+---
 
+  Some of these words <ins>will be underlined</ins>.
 
-  
-
-
+---
 
 1. Primeiro item
 2. Segundo item
 
-
+---
 - [ ] Tarefa pendente  
 - [x] Tarefa concluída  
 
