@@ -327,7 +327,7 @@ gitGraph:
     commit id: "Post merge stuff"
     commit id: "Final?"
 ```
----
+
 ## Tipos de Formatos
 
 ``` mermaid
