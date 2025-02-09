@@ -85,6 +85,14 @@ Texto com uma nota[^1].
 
 <button style="color: red;">Botão HTML</button>  
 
+
+
+<figure>
+    <img src="https://mdg.imgix.net/assets/images/albuquerque.jpg?auto=format&fit=clip&q=40&w=1080"
+         alt="Albuquerque, New Mexico">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>
+
 ```diff
 + Texto adicionado  
 - Texto removido  
