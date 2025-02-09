@@ -328,7 +328,7 @@ gitGraph:
     commit id: "Final?"
 ```
 ---
-##Tipos de Formatos
+## Tipos de Formatos
 
 ``` mermaid
 mindmap
