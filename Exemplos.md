@@ -31,26 +31,21 @@
 
 ---
 
-[Google](https://www.google.com.br/)
-![Google logo](https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)  
+[![Google logo](https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)](https://www.google.com.br/)
+---
+Mostrar código:
 
-
-5. Código
-Inline:
-`print("Hello World")`
-Resultado: print("Hello World")
-
-Bloco de código (com syntax highlighting):
-def hello():
-    print("Olá, Markdown!")
-
-
+```python
+def hello_world():
+    print("Hello, World!")
+```
+---
 > :warning: **Warning:** Do not push the big red button.
 
 > :memo: **Note:** Sunrises are beautiful.
 
 > :bulb: **Tip:** Remember to appreciate the little things in life.
-
+---
 
 > Isto é uma citação.  
 > **Autor Desconhecido**
