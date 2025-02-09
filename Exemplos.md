@@ -86,7 +86,7 @@ Para gerar tabelas automaticamente em Markdown, pode-se usar: [Tables Generator]
 
 ### VIDEO:
 
-[![Less Than Jake — Scott Farcas Takes It On The Chin](https://img.youtube.com/vi/PYCxct2e0zI/0.jpg)](https://www.youtube.com/watch?v=PYCxct2e0zI)
+[![This is a Video](https://th.bing.com/th/id/OIP.CCk-bwcVjwZMs_ANGVFsAgHaE8?w=276&h=184&c=7&r=0&o=5&dpr=1.5&pid=1.7)](https://www.youtube.com/watch?v=jN0aELsVQFA)
 ---
 
 
