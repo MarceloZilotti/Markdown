@@ -76,6 +76,8 @@
 >>Dificuldade com tabelas e elementos avançados: Criar tabelas ou elementos complexos pode ser trabalhoso.
 
 
+&nbsp;
+&nbsp;
+&nbsp;
 
-
-**Exemplos práticos de Uso**: [Exemplos Práticos](https://github.com/MarceloZilotti/Markdown/blob/main/Exemplos.md)
+### **Exemplos práticos de Uso**🔧: [Exemplos Práticos](https://github.com/MarceloZilotti/Markdown/blob/main/Exemplos.md) 
