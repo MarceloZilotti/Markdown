@@ -327,3 +327,20 @@ gitGraph:
     commit id: "Post merge stuff"
     commit id: "Final?"
 ```
+---
+Tipos de Formatos
+
+``` mermaid
+mindmap
+    Shapes
+        Default
+        [Square]
+        (Rounded)
+        ((Circle))
+        ))Bang((
+        )Cloud(
+        {{Hexagon}}
+
+```
+
+
