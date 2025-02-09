@@ -79,6 +79,10 @@ Para gerar tabelas automaticamente em Markdown, pode-se usar: [Tables Generator]
 | Header      | Title |
 | List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
 
+| ![Chrome Image](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fau2ph8juz4l6gu8m6v99.png) | ![Firefox Image](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnv0yb558uyvttyxnsz7.png) | ![Edge Image](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foc95bmrx1ic1yv2ufxnp.png) |
+|---------|-------|-------------|
+| 1       | 2     | 3           |
+
 
 ### VIDEO:
 
