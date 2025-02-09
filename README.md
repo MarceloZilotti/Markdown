@@ -80,4 +80,4 @@
 &nbsp;
 &nbsp;
 
-### **Exemplos práticos de Uso**🔧: [Exemplos Práticos](https://github.com/MarceloZilotti/Markdown/blob/main/Exemplos.md) 
+### **Exemplos práticos de Uso**: [🔧⚙️](https://github.com/MarceloZilotti/Markdown/blob/main/Exemplos.md) 
