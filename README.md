@@ -78,4 +78,4 @@
 
 
 
-
+**Exemplos práticos de Uso**: [Exemplos Práticos](https://github.com/MarceloZilotti/Markdown/blob/main/Exemplos.md)
