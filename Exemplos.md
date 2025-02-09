@@ -68,6 +68,10 @@ ___
 
 Para gerar tabelas automaticamente em Markdown, pode-se usar: [Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| Paragraph   | First paragraph. <br><br> Second paragraph. |
 ---
 
 
@@ -77,10 +81,33 @@ Texto com uma nota[^1].
 
 :rocket: :brazil: :smile:  
 
+---
 
-<button style="color: red;">Botão HTML</button>  
+<!-- Este é um comentário que não será exibido
+|Here’s a partial list of HTML entities for symbols|
+-----
 
-
+|Copyright (©) — &copy;|
+---
+|Registered trademark (®) — &reg;|
+---
+|Trademark (™) — &trade;|
+---
+|Euro (€) — &euro;|
+---
+|Left arrow (←) — &larr;|
+---
+|Up arrow (↑) — &uarr;|
+---
+|Right arrow (→) — &rarr;|
+---
+|Down arrow (↓) — &darr;|
+---
+|Degree (°) — &#176;|
+---
+|Pi (π) — &#960;|
+---
+ -->
 
 <figure>
     <img src="https://mdg.imgix.net/assets/images/albuquerque.jpg?auto=format&fit=clip&q=40&w=1080"
